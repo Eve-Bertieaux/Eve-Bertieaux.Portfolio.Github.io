@@ -249,8 +249,8 @@ h1{
     align-items: center;
 }
 .icone-medias {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
 }
 
@@ -780,6 +780,9 @@ footer {
         padding-left: 0;
     }
 }
+
+
+
 
 
 
